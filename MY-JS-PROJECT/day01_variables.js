@@ -1,12 +1,12 @@
+
 //?? Variables 
 
-var: degeri degisebilir global scope
+//**var: degeri degisebilir global scope
 
-let: degeri degisir
+//**let: degeri degisir
 
-const: degeri degistirilmez
+//**const: degeri degistirilmez
 
-*/
 
 var myName = "JavaScript";
 console.log(myName);
