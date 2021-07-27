@@ -851,4 +851,5 @@ console.log(myNumbers)      //11
 const myIndex = numbers.findIndex(
     eachNum => eachNum > 10
 )
+
 console.log(myIndex)
